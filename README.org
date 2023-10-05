@@ -1,0 +1,14 @@
+#title: The Libre-Halaal ByStar Digital Ecosystem
+
+Over the past 20 years autonomy and privacy
+
+Book info comes here
+
+Most of what is on Github is components oriented. Thinking in the context of a
+complete digital ecosystem demands a different model My ByStar git respositories
+are structured as organization that match architecture of ByStar.
+
+Here is a roadmap:
+
+BISOS: By* Internet Services Operating System
+Blee: BISOS Libre-Halaal Emacs environment
