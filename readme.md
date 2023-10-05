@@ -6,7 +6,7 @@ Over the past 20 years autonomy and privacy
 ------------------------------------------------------------------------
 
 
-<img align="right"  height="1800" src="./images/frontCover-1.jpg">
+<img align="right"  height="180" src="./images/frontCover-1.jpg">
 
 Nature of Polyexistentials:
 
@@ -14,6 +14,11 @@ Basis for Abolishment of the Western Intellectual Property Rights Regime
 
 And Introduction of the Libre-Halaal ByStar Digital Ecosystem
 
+Order Book Prints At Amazon: <a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a> 
+(424 pages --- 6 x 0.96 x 9 inches)
+<br/>
+On Line: <a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a>
+<br/>
 ------------------------------------------------------------------------
 
 <br/>
