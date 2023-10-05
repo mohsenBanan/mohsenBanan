@@ -32,8 +32,8 @@ Over the past 20 years autonomy and privacy. Blue print. interdisciplinary.
 Most of what is on Github is components oriented. Thinking in the context of a
 complete digital ecosystem demands a different model My ByStar git respositories
 are structured as organization that match architecture of ByStar. It is all libre-halaal.
-
-<p align="left"><font size="+2"><b>Roadmap:</font></b></p>
+<br>
+<font size="+2" color="blue"><b>Roadmap:</font></b>
 <br>
 <font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> --- On top of debian.
 <br>
