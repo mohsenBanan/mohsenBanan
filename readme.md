@@ -26,7 +26,7 @@ Recently, I authored a book outlining an interdisciplinary blueprint for the rea
 
 <p align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf">8.5x11</a> --
- <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-sft-loc.pdf">A4</a>
+ <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-emb-pub.pdf">A4</a>
 </p>
 <p align="left">Order Book Prints At Amazon:<a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
 (424 pages --- 6 x 0.96 x 9 inches)
