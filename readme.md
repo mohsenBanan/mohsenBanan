@@ -1,12 +1,20 @@
+The Libre-Halaal ByStar Digital Ecosystem
+=========================================
+
+Over the past 20 years autonomy and privacy
+
 ------------------------------------------------------------------------
 
-<img align="right"  height="360" src="./images/frontCover-1.jpg">
 
-# Nature of Polyexistentials:
+<img align="right"  height="1800" src="./images/frontCover-1.jpg">
 
-## Basis for Abolishment of the Western Intellectual Property Rights Regime
+Nature of Polyexistentials:
 
-## And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+Basis for Abolishment of the Western Intellectual Property Rights Regime
+
+And Introduction of the Libre-Halaal ByStar Digital Ecosystem
+
+------------------------------------------------------------------------
 
 <br/>
 <p align="center"><b>PLPC-120033</b></p>
