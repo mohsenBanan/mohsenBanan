@@ -1,7 +1,15 @@
 The Libre-Halaal ByStar Digital Ecosystem
 =========================================
 
-Over the past 20 years autonomy and privacy. Blue print. interdisciplinary.
+I am an engineer and a researcher based in Seattle, WA, USA. Over the past 20
+years I have been working on the construction of a comprehensive,
+interdisciplinary, ambitious and complex ethics-oriented, non-proprietary
+digital ecosystem that would both challenge the existing proprietary American
+digital ecosystem and operate concurrently alongside it. We call it ByStar
+(By*). ByStar primary offerings are tangible autonomy and genuine privacy on
+very large scale. ByStar is a moral inversion to the proprietary American
+internet services model. I recently authored a book that outlines an
+interdisciplinary for realization of ByStar.
 
 ------------------------------------------------------------------------
 
@@ -17,7 +25,7 @@ Over the past 20 years autonomy and privacy. Blue print. interdisciplinary.
 <p>
 </p>
 
-<p align="left">On Line: <a href="https://github.com/bxplpc/120033">Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI</a>
+<p align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003847">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120033">8.5x11</a> -- <a href="https://github.com/bxplpc/120033">A4</a>
 </p>
 <p align="left">Order Book Prints At Amazon:<a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
@@ -29,12 +37,24 @@ Over the past 20 years autonomy and privacy. Blue print. interdisciplinary.
 
 ------------------------------------------------------------------------
 
-Most of what is on Github is components oriented. Thinking in the context of a
-complete digital ecosystem demands a different model My ByStar git respositories
-are structured as organization that match architecture of ByStar. It is all libre-halaal.
+Most of what is on Github today reflects surrogate activities of tunnel vision
+engineers that produce or improce components oriented results which then feed
+into the current corporate American service. ByStar model is different.
+ByStar git respositories are structured
+as organization that match architecture of ByStar. All of these are 
+components that primarily feed our own Digital ecosystem.
+Key components of ByStar include:
 <br>
-<font size="+2" color="blue"><b>Roadmap:</font></b>
-<br>
-<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> --- On top of debian.
-<br>
-<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs environment</font></b> --- On top of emacs.
+
+<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> ---
+On top of Debian, BISOS builds a unified and univeral framework for developing
+both internet services and software-service continuums that use internet
+services.
+
+<br> 
+
+<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs Environment</font></b> --- On
+top of Emacs and BISOS, Blee builds an comprehensive integrated usage and
+development environment. Blee and BISOS are fully integrated.
+
+
