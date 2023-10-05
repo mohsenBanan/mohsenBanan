@@ -8,7 +8,7 @@ Over the past 20 years autonomy and privacy. Blue print. interdisciplinary.
 
 <img align="right"  height="230" src="./images/frontCover-1.jpg">
 
-<p align="center"><font size="+2"><b>Nature of Polyexistentials:</font></b></p>
+<p align="center"><font size="+4"><b>Nature of Polyexistentials:</font></b></p>
 
 <p align="center"><b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b></p>
 
@@ -33,7 +33,8 @@ Most of what is on Github is components oriented. Thinking in the context of a
 complete digital ecosystem demands a different model My ByStar git respositories
 are structured as organization that match architecture of ByStar. It is all libre-halaal.
 
-<p align="center"><font size="+2"><b>Roadmap:</font></b></p>
-
-<p align="center"><font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> On top of debian.</p>
-<p align="center"><font size="+1"><b>Blee: BISOS Libre-Halaal Emacs environment</font></b> On top of debian.</p>
+<p align="left"><font size="+2"><b>Roadmap:</font></b></p>
+<br>
+<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> --- On top of debian.
+<br>
+<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs environment</font></b> --- On top of emacs.
