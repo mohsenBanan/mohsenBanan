@@ -40,21 +40,18 @@ ByStar.
 
 Much of what you find on GitHub today represents the surrogate activities of
 tunnel vision engineers. These engineers often produce or improve
-component-oriented FOSS results that primarily cater to the interests of current
-corporate American proprietary internet service providers. ByStar, however,
-follows a different model. ByStar's Git repositories are structured as GitHub
-organizations that align with the architecture of ByStar itself. All of these
-components primarily contribute to our own digital ecosystem. Key engineering
-components of ByStar include: 
-<br> 
-<font size="+1"><b>BISOS: By* Internet
-Services Operating System</font></b> --- On top of Debian, BISOS builds a
-unified and universal framework for developing both internet services and
-software-service continuums that use internet services. 
-<br>
-<font
-size="+1"><b>Blee: BISOS Libre-Halaal Emacs Environment</font></b> --- On top of
-Emacs and BISOS, Blee creates a comprehensive integrated usage and development
-environment. Blee and BISOS are fully integrated.
+component-oriented FOSS results. These results are tactical and limited in scope
+and often end up catering to the interests of corporate American proprietary
+internet service providers. ByStar, however, follows a different model. ByStar's
+Git repositories are structured as GitHub organizations that align with the
+architecture of ByStar itself. All of these components primarily contribute to
+our own digital ecosystem. Key engineering components of ByStar include: <br>
+<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> ---
+On top of Debian, BISOS builds a unified and universal framework for developing
+both internet services and software-service continuums that use internet
+services. <br> <font size="+1"><b>Blee: BISOS Libre-Halaal Emacs
+Environment</font></b> --- On top of Emacs and BISOS, Blee creates a
+comprehensive integrated usage and development environment. Blee and BISOS are
+fully integrated.
 
 
