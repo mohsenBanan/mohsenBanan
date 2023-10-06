@@ -2,14 +2,14 @@ The Libre-Halaal ByStar Digital Ecosystem
 =========================================
 
 I am an engineer and researcher. Over the past two decades, I have been working
-on creating a comprehensive, interdisciplinary, ambitious,
-complex, and ethics-oriented non-proprietary digital ecosystem. This ecosystem
-challenges the existing proprietary American digital ecosystem while operating
-concurrently alongside it. We call it ByStar (By*). ByStar's primary offerings
-are tangible autonomy and genuine privacy on a very large scale. ByStar
-represents a moral inversion of the proprietary American internet services
-model. Recently, I authored a book outlining an interdisciplinary blueprint for
-the realization of ByStar.
+on creating a comprehensive, interdisciplinary, ambitious, complex, and
+ethics-oriented non-proprietary digital ecosystem. We call it ByStar (By*).
+ByStar challenges the existing proprietary American digital ecosystem while
+operating concurrently alongside it. ByStar's primary offerings are tangible
+autonomy and genuine privacy on a very large scale. ByStar represents a moral
+inversion of the proprietary American internet services model. Recently, I
+authored a book outlining an interdisciplinary blueprint for the realization of
+ByStar.
 
 ------------------------------------------------------------------------
 
