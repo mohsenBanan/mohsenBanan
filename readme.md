@@ -40,7 +40,7 @@ ByStar.
 
 Much of what you find on GitHub today represents the surrogate activities of
 tunnel vision engineers. These engineers often produce or improve
-component-oriented FOSS results that mainly serve the interests of current
+component-oriented FOSS results that primarily cater to the interests of current
 corporate American proprietary internet service providers. ByStar, however,
 follows a different model. ByStar's Git repositories are structured as GitHub
 organizations that align with the architecture of ByStar itself. All of these
