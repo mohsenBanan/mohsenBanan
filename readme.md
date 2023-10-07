@@ -58,12 +58,13 @@ comprehensive integrated usage and development environment. Blee and BISOS are
 fully integrated.
 <br>
 <font size="+1"><b>BPO: BISOS Portable Objects</font></b> --- On top of
-Git and the concept of Debian Apt Pkgs, BPO creates a platform for packaging of data,
-software, and configuration of software which creates a uniform model for
-portability of services and personal information.
+Git and similar to Apt Pkgs, BPO establishes a platform for packaging of data,
+software, and configurations of software. This platform creates a uniform model for
+portability, encompassing services and personal information.
 <br>
-<font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- On top of
-BPO and BISOS, PALS build a model for optional self hosting of services.
-In ByStar individual oriented services fully belong to the individual.
-PALS are a primary vehicle for enforcement of autonomy and privacy. 
+<font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- With
+BPO and BISOS, PALS construct a model for optional self hosting of services.
+In ByStar, individual-oriented services  unequivocally belong to the individual.
+PALS serve as a primary means for upholding autonomy and privacy.
+
 
