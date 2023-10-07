@@ -39,19 +39,31 @@ ByStar.
 ------------------------------------------------------------------------
 
 Much of what you find on GitHub today represents the surrogate activities of
-tunnel vision technocrats. These engineers often produce or improve
+tunnel vision technocrats (sec 12.1.7). These engineers often produce or improve
 component-oriented FOSS results. These results are usually tactical and limited in scope
 and often end up catering to the interests of corporate American proprietary
 internet service providers. ByStar, however, follows a different model. ByStar's
 Git repositories are structured as GitHub organizations that align with the
 architecture of ByStar itself. All of these components primarily contribute to
-our own digital ecosystem. Key engineering components of ByStar include: <br>
+our own digital ecosystem. Key engineering components of ByStar include: 
+<br>
 <font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> ---
 On top of Debian, BISOS builds a unified and universal framework for developing
 both internet services and software-service continuums that use internet
-services. <br> <font size="+1"><b>Blee: BISOS Libre-Halaal Emacs
+services. 
+<br> 
+<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs
 Environment</font></b> --- On top of Emacs and BISOS, Blee creates a
 comprehensive integrated usage and development environment. Blee and BISOS are
 fully integrated.
-
+<br>
+<font size="+1"><b>BPO: BISOS Portable Objects</font></b> --- On top of
+Git and the concept of Debian Apt Pkgs, BPO creates a platform for packaging of data,
+software, and configuration of software which creates a uniform model for
+portability of services and personal information.
+<br>
+<font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- On top of
+BPO and BISOS, PALS build a model for optional self hosting of services.
+In ByStar individual oriented services fully belong to the individual.
+PALS are a primary vehicle for enforcement of autonomy and privacy. 
 
