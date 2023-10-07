@@ -64,7 +64,7 @@ portability, encompassing services and personal information.
 <br>
 <font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- With
 BPO and BISOS, PALS construct a model for optional self hosting of services.
-In ByStar, individual-oriented services unequivocally belong to the individual
-and through PALS autonomy and privacy is enforced.
+In ByStar, individual-oriented services belong to the individual
+and through PALS, autonomy and privacy is enforceable.
 
 
