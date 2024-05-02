@@ -36,18 +36,18 @@ internet service providers. ByStar, however, follows a different model. ByStar's
 Git repositories are structured as public GitHub organizations that align with the
 architecture of ByStar itself. All of these components primarily contribute to
 our own digital ecosystem. Key engineering components of ByStar include:\\
-~BISOS: By* Internet Services Operating System~ ---
+*BISOS:* /By* Internet Services Operating System/ ---
 On top of Debian, BISOS builds a unified and universal framework for developing
 both internet services and software-service continuums that use internet
 services.\\
-~Blee: BISOS Libre-Halaal Emacs Environment~ --- On top of Emacs and BISOS, Blee creates a
+*Blee: BISOS Libre-Halaal Emacs Environment* --- On top of Emacs and BISOS, Blee creates a
 comprehensive integrated usage and development environment. Blee and BISOS are
 fully integrated.\\
-~BPO: BISOS Portable Objects~ --- With
+*BPO: BISOS Portable Objects* --- With
 Git and similar to Apt, BPO establishes a platform for packaging of data,
 software, and configurations of software. This creates a uniform model for
 portability, encompassing services and personal information.\\
-~PALS: Possession Assertable Libre Services~ --- With
+*PALS: Possession Assertable Libre Services* --- With
 BPO and BISOS, PALS construct a model for optional self hosting of services.
 In ByStar, individual-oriented services belong to the individual
 and through PALS, autonomy and privacy is enforceable.\\
