@@ -1,9 +1,7 @@
-#+TITLE: Bootstrapping ByStar, BISOS and Blee
+#+TITLE: The Libre-Halaal ByStar Digital Ecosystem
 #+DATE: <2024-02-19 Mon 16:27>
 #+AUTHOR: Mohsen BANAN
 #+OPTIONS: toc:4
-
-The Libre-Halaal ByStar Digital Ecosystem
 
 I am an engineer and researcher. Over the past two decades, I have been working
 on creating a comprehensive, interdisciplinary, and ethics-oriented
@@ -15,7 +13,6 @@ proprietary American internet services model. Recently, I authored a book
 outlining an interdisciplinary blueprint for the realization of ByStar.
 
 ------------------------------------------------------------------------
-
 #+html: <img align="right" src="images/frontCover-1.jpg" height="230" />
 
 #+html: <p align="center"><font size="+4"><b>Nature of Polyexistentials:</font></b></p>
@@ -38,24 +35,20 @@ and often end up catering to the interests of corporate American proprietary
 internet service providers. ByStar, however, follows a different model. ByStar's
 Git repositories are structured as public GitHub organizations that align with the
 architecture of ByStar itself. All of these components primarily contribute to
-our own digital ecosystem. Key engineering components of ByStar include:
-<br>
-<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> ---
+our own digital ecosystem. Key engineering components of ByStar include:\\
+~BISOS: By* Internet Services Operating System~ ---
 On top of Debian, BISOS builds a unified and universal framework for developing
 both internet services and software-service continuums that use internet
-services.
-<br>
-<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs
-Environment</font></b> --- On top of Emacs and BISOS, Blee creates a
+services.\\
+~Blee: BISOS Libre-Halaal Emacs Environment~ --- On top of Emacs and BISOS, Blee creates a
 comprehensive integrated usage and development environment. Blee and BISOS are
-fully integrated.
-<br>
-<font size="+1"><b>BPO: BISOS Portable Objects</font></b> --- With
+fully integrated.\\
+~BPO: BISOS Portable Objects~ --- With
 Git and similar to Apt, BPO establishes a platform for packaging of data,
 software, and configurations of software. This creates a uniform model for
-portability, encompassing services and personal information.
-<br>
-<font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- With
+portability, encompassing services and personal information.\\
+~PALS: Possession Assertable Libre Services~ --- With
 BPO and BISOS, PALS construct a model for optional self hosting of services.
 In ByStar, individual-oriented services belong to the individual
-and through PALS, autonomy and privacy is enforceable.
+and through PALS, autonomy and privacy is enforceable.\\
+Bootstraping comes here
