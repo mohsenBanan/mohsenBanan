@@ -65,5 +65,6 @@ portability, encompassing services and personal information.
 BPO and BISOS, PALS construct a model for optional self hosting of services.
 In ByStar, individual-oriented services belong to the individual
 and through PALS, autonomy and privacy is enforceable.
-
+<br>
+For bootstraping BISOS, Blee and ByStar; visist https://github.com/bxgenesis/start 
 
