@@ -13,7 +13,9 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 ------------------------------------------------------------------------
 
 <img align="right"  height="230" src="./images/frontCover-1.jpg">
-<p align="center"><font size="+4"><b>Nature of Polyexistentials:</font></b></p>
+<p align="center"><span style="font-size:3em;">Nature of Polyexistentials:</span></p>
+
+<p align="center"><font size="+5"><b>Nature of Polyexistentials:</font></b></p>
 
 <p align="center"><b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b></p>
 
