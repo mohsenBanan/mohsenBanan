@@ -11,8 +11,8 @@ proprietary American internet services model. Recently, I authored a book
 outlining an interdisciplinary blueprint for the realization of ByStar.
 
 ------------------------------------------------------------------------
-<img align="right"  height="230" src="./images/frontCover-1.jpg">
 
+<img align="right"  height="230" src="./images/frontCover-1.jpg">
 <p align="center"><font size="+4"><b>Nature of Polyexistentials:</font></b></p>
 
 <p align="center"><b>Basis for Abolishment of the Western Intellectual Property Rights Regime</b></p>
@@ -33,6 +33,7 @@ Order International Edition Book Prints: <a href="https://jangal.com/fa/product/
 <p align="left">Comments, Feedback:
 <a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</a>
 </p>
+
 ------------------------------------------------------------------------
 
 Much of what you find on GitHub today represents the surrogate activities of
