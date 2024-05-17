@@ -46,7 +46,9 @@ Git repositories are structured as public GitHub organizations that align with t
 architecture of ByStar itself. All of these components primarily contribute to
 our own digital ecosystem. Key engineering components of ByStar include: 
 <br>
-<font size="+1"><b>BISOS: By* Internet Services Operating System</font></b> ---
+<font size="+1"><b>BISOS: </font></b> 
+</a> -- <a href="https://github.com/bisos">By* Internet Services Operating System</a>
+---
 On top of Debian, BISOS builds a unified and universal framework for developing
 both internet services and software-service continuums that use internet
 services. 
