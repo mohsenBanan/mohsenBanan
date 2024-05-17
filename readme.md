@@ -24,11 +24,11 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 <p>
 </p>
 
-<p align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
+<p style="margin : 0; padding-top:0;" align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf">8.5x11</a> --
  <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-emb-pub.pdf">A4</a>
 </p>
-<p align="left">Order US Edition Book Prints At Amazon:<a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
+<p style="margin : 0; padding-top:0;" align="left">Order US Edition Book Prints At Amazon:<a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
 (424 pages --- 6 x 0.96 x 9 inches)
 </p>
 <p align="left">Order International Edition Book Prints: <a href="https://jangal.com/fa/product/252689/nature-of-polyexistentials"> Iran (Jangal Publishers) </a> 
