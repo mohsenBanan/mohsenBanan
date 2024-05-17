@@ -25,12 +25,12 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
  <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-emb-pub.pdf">A4</a>
 <br>
 US Edition Book Prints At Amazon:  <a href="https://www.amazon.com/dp/1960957015"> US </a> -- <a href="https://www.amazon.fr/dp/1960957015"> France </a>  -- <a href="https://www.amazon.co.uk/dp/1960957015"> UK </a> -- <a href="https://www.amazon.co.jp/dp/1960957015"> Japan </a>
-(424 pages --- 6 x 0.96 x 9 inches)
+&emsp;  (424 pages --- 6 x 0.96 x 9 inches)
 <br>
-International Edition Book Prints:  <a href="https://jangal.com/fa/product/252689/nature-of-polyexistentials"> Iran (Jangal Publishers) </a> 
-(406 pages --- 23.5 x 16.5 cm)
+International Edition Book Prints:  <a href="https://jangal.com/fa/product/252689/nature-of-polyexistentials">  Iran &emsp; (Jangal Publishers) </a> &emsp;
+&emsp; (406 pages --- 23.5 x 16.5 cm)
 </p>
-<p align="left">Comments, Feedback: 
+<p align="left">Comments, Feedback: &emsp; 
 <a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</a>
 </p>
 
