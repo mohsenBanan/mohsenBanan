@@ -3,7 +3,7 @@ The Libre-Halaal ByStar Digital Ecosystem
 
 I am an engineer and researcher. Over the past two decades, I have been working
 on creating a comprehensive, interdisciplinary, and ethics-oriented
-non-proprietary digital ecosystem. We call it ByStar (By*). ByStar challenges
+non-proprietary digital ecosystem. We call it <font size="+1"><b>ByStar (By*)</font></b>. ByStar challenges
 the existing proprietary American digital ecosystem while operating concurrently
 alongside it. ByStar's primary offerings are tangible autonomy and genuine
 privacy on a very large scale. ByStar represents a moral inversion of the
@@ -74,5 +74,5 @@ With BPO and BISOS, PALS construct a model for optional self hosting of
 services. In ByStar, individual-oriented services belong to the individual and
 through PALS, autonomy and privacy is enforceable.
 <br>
-For <font size="+1"><b>bootstraping BISOS, Blee and ByStar</font></b>; you can get started at: https://github.com/bxgenesis/start 
+For <font size="+1"><b>bootstraping </font></b>BISOS, Blee and ByStar; you can get started at: https://github.com/bxgenesis/start 
 
