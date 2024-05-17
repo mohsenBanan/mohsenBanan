@@ -52,20 +52,23 @@ On top of Debian, BISOS builds a unified and universal framework for developing
 both internet services and software-service continuums that use internet
 services. 
 <br> 
-<font size="+1"><b>Blee: BISOS Libre-Halaal Emacs
-Environment</font></b> --- On top of Emacs and BISOS, Blee creates a
+<font size="+1"><b>Blee: </font></b>
+<a href="https://github.com/bx-blee">By* BISOS Libre-Halaal Emacs Environment</a> ---
+On top of Emacs and BISOS, Blee creates a
 comprehensive integrated usage and development environment. Blee and BISOS are
 fully integrated.
 <br>
-<font size="+1"><b>BPO: BISOS Portable Objects</font></b> --- With
-Git and similar to Apt, BPO establishes a platform for packaging of data,
+<font size="+1"><b>BPO: </font></b>
+<a href="https://github.com/bisos-pip/bpo">BISOS Portable Objects</a> ---
+With Git and similar to Apt, BPO establishes a platform for packaging of data,
 software, and configurations of software. This creates a uniform model for
 portability, encompassing services and personal information.
 <br>
-<font size="+1"><b>PALS: Possession Assertable Libre Services</font></b> --- With
-BPO and BISOS, PALS construct a model for optional self hosting of services.
-In ByStar, individual-oriented services belong to the individual
-and through PALS, autonomy and privacy is enforceable.
+<font size="+1"><b>PALS: </font></b> --- 
+<a href="https://github.com/bisos-pip/pals">Possession Assertable Libre Services</a> ---
+With BPO and BISOS, PALS construct a model for optional self hosting of
+services. In ByStar, individual-oriented services belong to the individual and
+through PALS, autonomy and privacy is enforceable.
 <br>
-For bootstraping BISOS, Blee and ByStar; you can get started at: https://github.com/bxgenesis/start 
+For <font size="+1"><b>bootstraping BISOS, Blee and ByStar</font></b>; you can get started at: https://github.com/bxgenesis/start 
 
