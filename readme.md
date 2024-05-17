@@ -40,9 +40,9 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 Much of what you find on GitHub today represents the surrogate activities of
 tunnel-vision technocrats (sec 12.1.7). These engineers often produce or improve
 component-oriented FOSS projects that are typically tactical and limited in
-scope. These projects often come with corporate-friendly "permissive" licenses,
+scope. These often come with corporate-friendly "permissive" licenses,
 ultimately catering to the interests of large American proprietary internet
-service providers. ByStar, however, follows a different model. ByStar's Git
+service providers. ByStar, however, follows a different model. ByStar's
 repositories are structured as public GitHub organizations that align with the
 architecture of ByStar itself. All these components primarily contribute to our
 own digital ecosystem, exclusively composed of Libre-Halaal software subjected
