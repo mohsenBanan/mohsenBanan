@@ -38,13 +38,17 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 ------------------------------------------------------------------------
 
 Much of what you find on GitHub today represents the surrogate activities of
-tunnel vision technocrats (sec 12.1.7). These engineers often produce or improve
-component-oriented FOSS results which are usually tactical and limited in scope
-and often end up catering to the interests of corporate American proprietary
-internet service providers. ByStar, however, follows a different model. ByStar's
-Git repositories are structured as public GitHub organizations that align with the
-architecture of ByStar itself. All of these components primarily contribute to
-our own digital ecosystem. Key engineering components of ByStar include: 
+tunnel-vision technocrats (sec 12.1.7). These engineers often produce or improve
+component-oriented FOSS projects that are typically tactical and limited in
+scope. These projects often come with corporate-friendly "permissive" licenses,
+ultimately catering to the interests of large American proprietary internet
+service providers. ByStar, however, follows a different model. ByStar's Git
+repositories are structured as public GitHub organizations that align with the
+architecture of ByStar itself. All these components primarily contribute to our
+own digital ecosystem, exclusively composed of Libre-Halaal software subjected
+to the 
+<a href="https://github.com/mohsenBanan/mohsenBanan/LICENSE>AGPL</a>.
+Key engineering components of ByStar include:
 <br>
 <font size="+1"><b>BISOS: </font></b> 
 <a href="https://github.com/bisos">By* Internet Services Operating System</a> ---
