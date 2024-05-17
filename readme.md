@@ -47,7 +47,7 @@ repositories are structured as public GitHub organizations that align with the
 architecture of ByStar itself. All these components primarily contribute to our
 own digital ecosystem, exclusively composed of Libre-Halaal software subjected
 to the 
-<a href="https://github.com/mohsenBanan/mohsenBanan/LICENSE>AGPL</a>.
+<a href="https://github.com/mohsenBanan/mohsenBanan/LICENSE">AGPL</a>.
 Key engineering components of ByStar include:
 <br>
 <font size="+1"><b>BISOS: </font></b> 
