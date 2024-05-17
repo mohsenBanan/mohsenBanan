@@ -22,7 +22,7 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 <p align="center"><b>And Introduction of the Libre-Halaal ByStar Digital Ecosystem</b></p>
 
 
-<p style="margin-bottom:0;" align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
+<p align="left">On Line: <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-8.5x11-col-emb-pub.pdf">8.5x11</a> --
  <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_04-book-a4-col-emb-pub.pdf">A4</a>
 </p>
@@ -31,8 +31,8 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 </p>
 <p align="left">Order International Edition Book Prints: <a href="https://jangal.com/fa/product/252689/nature-of-polyexistentials"> Iran (Jangal Publishers) </a> 
 (406 pages --- 23.5 x 16.5 cm)
-</p>
-<p align="left">Comments, Feedback:
+<br>
+Comments, Feedback:
 <a href="mailto:plpc-120033@mohsen.1.banan.byname.net">plpc-120033@mohsen.1.banan.byname.net</a>
 </p>
 
