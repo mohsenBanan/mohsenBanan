@@ -68,7 +68,7 @@ With Git and similar to Apt, BPO establishes a platform for packaging of data,
 software, and configurations of software. This creates a uniform model for
 portability, encompassing services and personal information.
 <br>
-<font size="+1"><b>PALS: </font></b> --- 
+<font size="+1"><b>PALS: </font></b>
 <a href="https://github.com/bisos-pip/pals">Possession Assertable Libre Services</a> ---
 With BPO and BISOS, PALS construct a model for optional self hosting of
 services. In ByStar, individual-oriented services belong to the individual and
