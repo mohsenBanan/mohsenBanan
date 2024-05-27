@@ -7,7 +7,9 @@ non-proprietary digital ecosystem. We call it <font size="+1"><b>ByStar (By*)</f
 the existing proprietary American digital ecosystem while operating concurrently
 alongside it. ByStar's primary offerings are tangible autonomy and genuine
 privacy on a very large scale. ByStar represents a moral inversion of the
-proprietary American internet services model. Recently, I authored a book
+proprietary American internet services model. 
+<font size="+1"><b>By* is about redecentralization of internet application services.</font></b>
+Recently, I authored a book
 outlining an interdisciplinary blueprint for the realization of ByStar.
 
 ------------------------------------------------------------------------
