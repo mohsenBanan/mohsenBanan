@@ -39,16 +39,10 @@ International Edition Book Prints: &emsp;  <a href="https://jangal.com/fa/produc
 
 ------------------------------------------------------------------------
 
-Much of what you find on GitHub today represents the surrogate activities of
-tunnel-vision technocrats (sec 12.1.7). These engineers often produce or improve
-component-oriented FOSS projects that are typically tactical and limited in
-scope. These often come with corporate-friendly "permissive" licenses,
-ultimately catering to the interests of large American proprietary internet
-service providers. ByStar, however, follows a different model. ByStar's
-repositories are structured as public GitHub organizations that align with the
-architecture of ByStar itself. All these components primarily contribute to our
-own digital ecosystem, exclusively composed of Libre-Halaal software subjected
-to the 
+ByStar's repositories are structured as public GitHub organizations that align
+with the architecture of ByStar itself. All these components primarily
+contribute to our own digital ecosystem, exclusively composed of Libre-Halaal
+software subjected to the
 <a href="https://github.com/mohsenBanan/mohsenBanan/LICENSE">AGPL</a>.
 Key engineering components of ByStar include:
 <br>
@@ -61,8 +55,14 @@ services.
 <font size="+1"><b>Blee: </font></b>
 <a href="https://github.com/bx-blee">By* BISOS Libre-Halaal Emacs Environment</a> ---
 On top of Emacs and BISOS, Blee creates a
-comprehensive integrated usage and development environment. Blee and BISOS are
-fully integrated.
+comprehensive integrated usage and development environment. Blee and BISOS are intertwined.
+<br> 
+<font size="+1"><b>PyCS: </font></b>
+<a href="https://github.com/bisos-pip/pycs">Python Command Services</a> ---
+Is a unified model and framework for development of both Commands and Services.
+Unlike Click, Docopt and Typer which are just for commands development and unlike 
+FastAPI, Pydantic, gRPC and OpenAPI which are just for services development, PyCS 
+does both. Native PyCS uses RPyC to transform commands into services.
 <br>
 <font size="+1"><b>BPO: </font></b>
 <a href="https://github.com/bisos-pip/bpo">BISOS Portable Objects</a> ---
