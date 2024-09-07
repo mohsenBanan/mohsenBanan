@@ -60,9 +60,14 @@ comprehensive integrated usage and development environment. Blee and BISOS are i
 <font size="+1"><b>PyCS: </font></b>
 <a href="https://github.com/bisos-pip/pycs">Python Command Services</a> ---
 Is a unified model and framework for development of both Commands and Services.
-Unlike Click, Docopt and Typer which are just for commands development and unlike 
-FastAPI, Pydantic, gRPC and OpenAPI which are just for services development, PyCS 
-does both. Native PyCS uses RPyC to transform commands into services.
+Unlike 
+<a href="https://github.com/pallets/click">Click</a>, 
+Docopt and Typer which are just for commands development and unlike 
+<a href="https://github.com/fastapi/fastapi">FastAPI</a>, 
+Pydantic, gRPC and OpenAPI which are just for services development, PyCS 
+does both. Native PyCS uses 
+<a href="https://github.com/tomerfiliba-org/rpyc">RPyC</a> 
+to transform commands into services.
 <br>
 <font size="+1"><b>BPO: </font></b>
 <a href="https://github.com/bisos-pip/bpo">BISOS Portable Objects</a> ---
