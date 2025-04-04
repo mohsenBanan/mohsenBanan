@@ -25,7 +25,8 @@ outlining an interdisciplinary blueprint for the realization of ByStar.
 
 <p align="left">US Edition On Line: &emsp;   <a href="https://github.com/bxplpc/120033">PLPC-120033 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003846">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf">8.5x11</a> --
- <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-a4-col-emb-pub.pdf">A4</a>
+ <a href="https://github.com/bxplpc/120033/blob/main/pdf/c-120033-1_05-book-a4-col-emb-pub.pdf">A4</a> -- 
+ <a href="https://raw.github.com/bxplpc/120033/main/pdf/c-120033-1_05-book-8.5x11-col-emb-pub.pdf" target="_blank"  type="application/pdf" rel="alternate">Download</a>
 <br>
 International Edition On Line: &emsp;  <a href="https://github.com/bxplpc/120074">PLPC-120074 at Github</a>  <a href="https://github.com/bxplpc/120074">PLPC-120074 at Github</a> --  <a href="https://doi.org/10.5281/zenodo.8003800">DOI </a>
  --- PDF: <a href="https://github.com/bxplpc/120074/blob/main/pdf/c-120074-1_05-book-8.5x11-col-emb-pub.pdf?raw=true">8.5x11</a> -- 
